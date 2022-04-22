@@ -1,4 +1,4 @@
-# I'm Michele
+# Michele Bonini
 
 - 📚 I’m currently working on my Master's Degree Thesis
 
