@@ -37,14 +37,3 @@ Game based on Colyseus framework to build a multiplayer game in distributed mann
 Realization of a rent and monitoring platform for a fleet of bicycles, with an administration dashboard and mobile app for users (Android).
 
 
-
-
-<!--
-**Michele971/Michele971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
