@@ -14,7 +14,8 @@
 
 - 📫 How to reach me:
 <a href="https://twitter.com/michele_bonini" target="blank"><img align="center" src="https://as2.ftcdn.net/v2/jpg/01/15/63/37/1000_F_115633770_eW4YFq7wORcielto9JPDsqAKys7Y54HZ.jpg" height="50" /></a>
-<a href="https://www.linkedin.com/in/michele-bonini-4769021b6/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1650634328~hmac=c16c1552d0e5fb8a11784f623773ea51" height="50" /></a>
+<a href="https://www.linkedin.com/in/michele-bonini-4769021b6/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50" /></a>
+
 
 ## Main Projects
 
