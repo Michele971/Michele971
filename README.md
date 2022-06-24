@@ -37,4 +37,5 @@ Game based on Colyseus framework to build a multiplayer game in distributed mann
 
 Realization of a rent and monitoring platform for a fleet of bicycles, with an administration dashboard and mobile app for users (Android).
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michele971&show_icons=true&locale=en" alt="michele971 stats" /></p>
 
