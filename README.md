@@ -7,8 +7,8 @@
 
 
 - 💻 Bachelor's degree in Computer Science for Management (University of Bologna)
-  ### [Thesis](https://gitlab.com/BonnyBay/progettotesi): Development and integration of a system for creating decentralized services on smartphone.
-
+  ### [Thesis Code](https://gitlab.com/BonnyBay/progettotesi): Development and integration of a system for creating decentralized services on smartphone.
+  ### [Thesis Report](https://amslaurea.unibo.it/22167/)
 
 - 📖 My interests are: blockchain, data analysis and finance
 
