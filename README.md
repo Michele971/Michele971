@@ -13,8 +13,6 @@
 - 📖 My interests are: blockchain, data analysis and finance
 
 - 📫 How to reach me:
-<a href="https://twitter.com/michele_bonini" target="blank"><img align="center" src="https://as2.ftcdn.net/v2/jpg/01/15/63/37/1000_F_115633770_eW4YFq7wORcielto9JPDsqAKys7Y54HZ.jpg" height="50" /></a>
-<a href="https://www.linkedin.com/in/michele-bonini-4769021b6/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50" /></a>
 <p align='center'>
   </a>&nbsp;&nbsp;
    <a href="https://twitter.com/michele_bonini">
@@ -25,6 +23,17 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<p align='center'>
+   <a href="https://github.com/estruyf/github-visitors-badge">
+      <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=estruyf&countColor=%237B1E7A" />
+   </a>
+</p>
+
+<p align="center">
+  <a href="#">
+      <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Michele971&repo=Michele971&countColor=%237B1E7A" />
+   </a>
+</p>
 
 ## Main Projects
 
