@@ -31,7 +31,7 @@
    </a>
 </p>
 
-## Main Projects
+## Main Projects 📚
 
 ### [Predictive analysis for anomaly detection on bridges infrastructures](https://gitlab.com/BonnyBay/bridges-sensors)
 
