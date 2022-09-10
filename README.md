@@ -16,7 +16,11 @@
 <a href="https://twitter.com/michele_bonini" target="blank"><img align="center" src="https://as2.ftcdn.net/v2/jpg/01/15/63/37/1000_F_115633770_eW4YFq7wORcielto9JPDsqAKys7Y54HZ.jpg" height="50" /></a>
 <a href="https://www.linkedin.com/in/michele-bonini-4769021b6/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50" /></a>
 
-
+<p align="center">
+  <a href="#">
+      <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Michele971f&repo=Michele971&countColor=%4169E1" />
+   </a>
+</p>
 ## Main Projects
 
 ### [Predictive analysis for anomaly detection on bridges infrastructures](https://gitlab.com/BonnyBay/bridges-sensors)
