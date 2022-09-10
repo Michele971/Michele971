@@ -23,11 +23,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-   <a href="https://github.com/estruyf/github-visitors-badge">
-      <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=estruyf&countColor=%237B1E7A" />
-   </a>
-</p>
+
 
 <p align="center">
   <a href="#">
