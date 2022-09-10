@@ -21,6 +21,7 @@
       <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Michele971f&repo=Michele971&countColor=%237B1E7A" />
    </a>
 </p>
+
 ## Main Projects
 
 ### [Predictive analysis for anomaly detection on bridges infrastructures](https://gitlab.com/BonnyBay/bridges-sensors)
