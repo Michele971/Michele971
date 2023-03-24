@@ -1,9 +1,11 @@
 #  🖌 About Me
 
-- 📚 I’m currently working on my Master's Degree Thesis
+- 🌱 Currently focusing on **Blochckain** and **AI**
 
 
-- 🌱 I’m currently studying Computer Science at University of Bologna 
+- 📚 Master's degree in Computer Science (University of Bologna)
+  ### [Thesis Code](): Proof of Location through a Blockchain Agnostic Smart Contract Language: Design and Evaluation over Algorand and Ethereum
+  ### [Thesis Report]() will be added soon 
 
 
 - 💻 Bachelor's degree in Computer Science for Management (University of Bologna)
