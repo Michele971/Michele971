@@ -5,7 +5,7 @@
 
 - 📚 Master's degree in Computer Science (University of Bologna)
   ### [Thesis Code](https://github.com/Michele971/hypfs-upgrade): Proof of Location through a Blockchain Agnostic Smart Contract Language: Design and Evaluation over Algorand and Ethereum
-  ### [Thesis Report](https://amslaurea.unibo.it/27599/) will be added soon 
+  ### [Thesis Report](https://amslaurea.unibo.it/27599/)
 
 
 - 💻 Bachelor's degree in Computer Science for Management (University of Bologna)
