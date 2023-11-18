@@ -13,7 +13,7 @@
   ### [Thesis Report](https://amslaurea.unibo.it/22167/)
 
 - 📄 My academic paper (2023): [Proof of Location through a Blockchain Agnostic Smart Contract Language](https://ieeexplore.ieee.org/abstract/document/10302948/)
-- 
+  
 - 📖 Discover more about my career path [here](https://drive.google.com/file/d/1s7iN8HXivOKJkqkn23p7BuIxD5YBcCnu/view?usp=share_link) 
 
 - 💡 My interests are: blockchain, Machine Learning and finance
