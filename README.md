@@ -12,9 +12,13 @@
   ### [Thesis Code](https://gitlab.com/BonnyBay/progettotesi): Development and integration of a system for creating decentralized services on smartphone.
   ### [Thesis Report](https://amslaurea.unibo.it/22167/)
 
-- 📖 My interests are: blockchain, data analysis and finance
+- 📄 My academic paper (2023): [Proof of Location through a Blockchain Agnostic Smart Contract Language](https://ieeexplore.ieee.org/abstract/document/10302948/)
+- 
+- 📖 Discover more about my career path [here](https://drive.google.com/file/d/1s7iN8HXivOKJkqkn23p7BuIxD5YBcCnu/view?usp=share_link) 
 
-- 📫 How to reach me:
+- 💡 My interests are: blockchain, Machine Learning and finance
+
+- 📫 Feel free to reach out!:
 <p align='center'>
   </a>&nbsp;&nbsp;
    <a href="https://twitter.com/michele_bonini">
